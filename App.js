@@ -29,7 +29,7 @@ import {
 const App: () => React$Node = () => {
   return (
     <>
-      <Text>Привіт! Класна погода</Text>
+      <Text>Vova</Text>
       {/* <Button
         title="Solid Button"
       /> */}
