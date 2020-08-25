@@ -24,10 +24,15 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+// import { Button } from 'react-native-elements';
+
 const App: () => React$Node = () => {
   return (
     <>
-        <Text>Привіт! Класна погода</Text>
+      <Text>Привіт! Класна погода</Text>
+      {/* <Button
+        title="Solid Button"
+      /> */}
     </>
   );
 };
